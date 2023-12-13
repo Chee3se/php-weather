@@ -1,0 +1,8 @@
+:root {
+  --primary-color: #007bff;
+  --secondary-color: #6c757d;
+  --accent-color: #ffc107;
+}
+body {
+  margin: 0px;
+}
